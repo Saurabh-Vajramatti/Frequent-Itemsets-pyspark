@@ -27,3 +27,5 @@ Both the codes are implementing SON Algorithm using Apache Spark Framework. The 
     <li> The frequent item set candidates and the final set of frequent item sets.
   </ol>
 </p>
+
+![image](https://user-images.githubusercontent.com/60020847/89115762-cc5f1400-d440-11ea-8dfc-4dd44306603f.png)
